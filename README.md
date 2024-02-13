@@ -1,4 +1,4 @@
-![image](https://github.com/MuhammedYasinOzdemirDev/E-Ticaret-Projesi/assets/94251353/4b18b63d-8f8e-4492-82ce-19d5c8c59162)![image](https://github.com/MuhammedYasinOzdemirDev/E-Ticaret-Projesi/assets/94251353/50f4dd67-10f2-4198-beab-a9571a1052b8)# E-Ticaret Projesi
+# E-Ticaret Projesi
 Projemde, .Net kullanarak geliştirilmiş MVC yapısını kullanan bir web uygulamasıdır. Projemin amacı, ürün satışı gerçekleştirmek ve müşterilerimize kolay ve güvenli bir alışveriş deneyimi sunmaktır. 
 
 Projemde Account, Admin, Home ve Shop adlı dört controller bulunmaktadır. Bu controllerlar, projemin farklı işlevlerini yönetmektedir. Örneğin, Account controllerı, üyelik işlemlerini; Admin controllerı, ürün ekleme ve çıkarma işlemlerini; Home controllerı, ana sayfa ve kategori görüntüleme işlemlerini; Shop controllerı ise, sepete ekleme ve satın alma işlemlerini gerçekleştirmektedir.
