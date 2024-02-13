@@ -8,6 +8,11 @@ Projemizin veri tabanı olarak SQL kullanmaktayız. Veri ilişkileri ise 4 katma
 - **Data**: Bu katmanda, projemizin veri erişim işlemleri gerçekleştirilmiştir. Örneğin, veri tabanı bağlantısı, sorgu çalıştırma, veri ekleme, silme, güncelleme gibi işlemler bu katmanda yapılmıştır.
 - **Entity**: Bu katmanda, projemin veri modelleri tanımlanmıştır. Örneğin, User, Product, Category, Order gibi sınıflar bu katmanda oluşturulmuştur. Bu sınıfların özellikleri ve ilişkileri de bu katmanda belirtilmiştir.
 - **WEBUI**: Bu katmanda ise, projemin arayüz tasarımı ve kullanıcı etkileşimi gerçekleştirilmiştir. Örneğin, HTML, CSS, JavaScript gibi teknolojiler kullanılarak projemizin görünümü ve işlevselliği sağlanmıştır.
+Projemin birçok özellik bulunmaktadır. Bunlardan bazıları şunlardır:
+- **Üyelik**: Kullanıcılarımız projemin üye olabilir veya varsa mevcut hesaplarıyla giriş yapabilirler. Üyelik işlemleri için Account controllerını kullanmaktayım.
+- **Ürün ekleme ve çıkarma**: Admin yetkisine sahip olan kullanıcılarımız projeme yeni ürünler ekleyebilir veya mevcut ürünleri çıkarabilirler. Ürün ekleme ve çıkarma işlemleri için Admin controllerını kullanmaktayım.
+![image](https://github.com/MuhammedYasinOzdemirDev/E-Ticaret-Projesi/assets/94251353/e58a47ab-37b9-4eaa-a4a6-d285d72551fe)
+
 
 
   
